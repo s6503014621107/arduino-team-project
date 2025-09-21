@@ -1,0 +1,19 @@
+# Arduino build files
+*.hex
+*.elf
+*.eep
+*.bin
+*.dSYM/
+*.swp
+*.dep
+*.obj
+*.map
+*.a
+*.o
+*.so
+*.d
+*.pyc
+__pycache__/
+
+# Arduino IDE specific
+*.ino.*
